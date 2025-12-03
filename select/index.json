@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Dress Code",
+  "base_artist": "朝香果林 (CV.久保田未夢)",
+  "createdAt": "2025-12-03T01:19:25.181865Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dress Code",
+      "artist": "Il Pagante feat. Samuel Heron",
+      "has_synced": false,
+      "path": "select/01_Dress_Code_Il_Pagante_feat._Samuel_Heron.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dress Code",
+      "artist": "Il Pagante",
+      "has_synced": false,
+      "path": "select/02_Dress_Code_Il_Pagante.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dress Code",
+      "artist": "Mau P",
+      "has_synced": true,
+      "path": "select/03_Dress_Code_Mau_P.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dress Code",
+      "artist": "Qveen Herby",
+      "has_synced": true,
+      "path": "select/04_Dress_Code_Qveen_Herby.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dress Code",
+      "artist": "The Faint",
+      "has_synced": false,
+      "path": "select/05_Dress_Code_The_Faint.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DRESS CODE (Feat. punchnello)",
+      "artist": "PARK JI HOON feat. punchnello",
+      "has_synced": true,
+      "path": "select/06_DRESS_CODE_(Feat._punchnello)_PARK_JI_HOON_feat._punchnello.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DRESS CODE (feat. punchnello)",
+      "artist": "PARK JI HOON",
+      "has_synced": true,
+      "path": "select/07_DRESS_CODE_(feat._punchnello)_PARK_JI_HOON.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dress Code (feat. Kalash Criminel)",
+      "artist": "Black M feat. Kalash Criminel",
+      "has_synced": true,
+      "path": "select/08_Dress_Code_(feat._Kalash_Criminel)_Black_M_feat._Kalash_Criminel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dress Code (feat. Kalash Criminel)",
+      "artist": "Black M",
+      "has_synced": true,
+      "path": "select/09_Dress_Code_(feat._Kalash_Criminel)_Black_M.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dress.Code.Black",
+      "artist": "Décembre Noir",
+      "has_synced": false,
+      "path": "select/10_Dress.Code.Black_Décembre_Noir.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Required Dress Code",
+      "artist": "Ed Motta",
+      "has_synced": true,
+      "path": "select/11_The_Required_Dress_Code_Ed_Motta.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dress Code",
+      "artist": "Black M",
+      "has_synced": true,
+      "path": "select/12_Dress_Code_Black_M.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DRESS CODE",
+      "artist": "BAYZI",
+      "has_synced": true,
+      "path": "select/13_DRESS_CODE_BAYZI.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dress Code",
+      "artist": "Black M feat. Kalash Criminel",
+      "has_synced": true,
+      "path": "select/14_Dress_Code_Black_M_feat._Kalash_Criminel.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dress Code",
+      "artist": "朝香果林 (CV.久保田未夢)",
+      "has_synced": false,
+      "path": "select/pl_01_Dress_Code_朝香果林_(CV.久保田未夢).txt"
+    }
+  ]
+}
